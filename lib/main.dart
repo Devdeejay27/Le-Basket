@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Le Basket',
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
